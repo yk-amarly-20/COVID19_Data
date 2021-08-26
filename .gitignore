@@ -4,3 +4,4 @@ target
 Cargo.lock
 workspace.code-workspace
 .vscode
+.env
