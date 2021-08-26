@@ -1,0 +1,1 @@
+pub mod collect_num_infected_interactor;
